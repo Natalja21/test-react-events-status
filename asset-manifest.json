@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/test-react-events-status.git/static/css/main.2b22af1b.css",
+    "main.js": "/test-react-events-status.git/static/js/main.0d689655.js",
+    "index.html": "/test-react-events-status.git/index.html",
+    "main.2b22af1b.css.map": "/test-react-events-status.git/static/css/main.2b22af1b.css.map",
+    "main.0d689655.js.map": "/test-react-events-status.git/static/js/main.0d689655.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b22af1b.css",
+    "static/js/main.0d689655.js"
+  ]
+}
